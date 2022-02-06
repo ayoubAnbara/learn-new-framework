@@ -2,12 +2,15 @@
 this repository contains the points that we should know when moving from one web framework to another
 
 ## ORM
+like JPA (Hibernate...)
 
 ## Security
 
 ## MVP
 
 how to implement MVP pattern
+
+how handle routing
 
 ## template engine
 like Thymeleaf
